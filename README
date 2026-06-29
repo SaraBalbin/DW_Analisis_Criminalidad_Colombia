@@ -1,0 +1,5 @@
+# Activar el ambiente
+venv\Scripts\activate
+
+# Instalar librerias
+pip install -r requirements.txt
